@@ -1,0 +1,50 @@
+49
+Australien;Australien;10;Cor inspirada de ferrugem das rochas e desertos do interior de um país
+Ambar-bastardo;Âmbar-bastardo;14; É o nome de um refletor utilizado nos cinemas que produz um brilho de tom pêssego quente ou rosado.
+Drunk-Tank Pink;Drunk-Tank Pink;14;É o nome de um tom claro de rosa
+Incarnadine;Incarnadine;11;É geralmente usado para se referir a um carmim intenso
+Pervenche;Pervenche;9;Descreve um tom intenso de púrpura-azulado
+Puke;Puke;4;NaInglaterra, era o nome de um tecido de lã de alta qualidade
+Sinoper;Sinoper;7;Era o pigmento que continha partículas de hematita, um mineral rico em ferro
+Verditer;Verditer;8;Cor de ferrugem com descoloração verde de cobre e bronze
+Watchet;Watchet;7;É uma cor azul pálida
+Zaffre;Zaffre;6;Pigmento azul antigo originalmente produzido pela queima de minérios de cobalto em uma fornalha
+Akee;Akee;4;Fruta da família Sapindaceae, com origem na África Ocidental
+Anonaceas;Anonáceas;9;Família de plantas dicotiledóneas pertencente à ordem Magnoliales
+Atemoya;Atemoya;7;Fruta híbrida que é obtida através do cruzamento da chirimoia com a fruta-pinha
+Biriba;Biribá;6;Fruteira nativa das Antilhas
+Bilimbi;Bilimbi;7,fruta exótica rara é muito popular na Tailândia, Malásia e Singapura
+Cagaita;Cagaita;7;Fruta encontrada nos estados brasileiros de Goiás, Piauí, Tocantins, Mato Grosso do Sul, Bahia, e Minas Gerais
+Calabaca;Calabaça;8; Fruto com cápsulas, ovoides ou globosas, com 15 a 30 cm de comprimento e 10 a 25 cm de diâmetro
+Calamondin;Calamondin;10;Fruto ácido que é mais comumente cultivada nas Ilhas Filipinas
+Dovyalis;Dovyalis;8;Género botânico pertencente à família Salicaceae
+Guabiroba;Guabiroba;9;Fruto produzido pela Campomanesia xanthocarpa
+Granadilla;Granadilla;10;Fruta nativa das montanhas andinas entre Bolívia, Venezuela e Colômbia.
+Ilama;Ilama;5;Fruta com classificação superior: Annona
+Langsat;Langsat;7; É uma frutífera nativa da península Malaia
+Naranjilla;Naranjilla;10;Fruta com origem nos Andes da Venezuela e do Peru
+Physalis;Physalis;8;Planta herbácea de hábitos perenes
+Salak;Salak;5;Espéce de palmeira nativa de Java e Sumatra na Indonésia
+Santol;Santol;6;Fruto tropical no Sudeste Asiático e em Maurícia
+Wampi;Wampi;5;É uma árvore comumente cultivada na China e também no Hava
+Yamamomo;Yamamomo;8;Fruta comestível doce
+Zitrone;Zitrone;7;Fruto de uma pequena árvore de folha perene originária da região sudeste da Ásia
+Ave-lira;Ave-lira;8;Espécie de pavão encontrada na Austrália
+Cormorao;Cormorão;8;Designação de diversas aves marinhas Suliformes da família Phalacrocoracida
+Equidna;Équidna;7;Animal que vive na Austrália e na Nova Guiné
+Gerbilo;Gerbilo;7;Espécies de anima africano, indiano e asiátic0
+Ocapi;Ocapi;5;Mamífero artriodáctilo nativo do nordeste da República Democrática do Congo na África Central
+Arnold Schwarzenegger;Arnold Schwarzenegger;20;EX Governador
+Abaetuba;Abaetuba;8;Cidade do Pará
+Acailandia;Açailândia;10;Cidade do Maranhão
+Ananindeua;Ananindeua;10;Cidade do Pará
+Bayeux;Bayeux;6;Cidade da Paraiba
+Manacapuru;Manacapuru;10;Cidade da Amazonia
+Jawfishes;Jawfishes;9;Peixe  da família Opistognathidae
+Chaunax endeavouri;Chaunax endeavouri;17;Peixe conhecido "sapo do mar"
+Chionodraco rastrospinosus;Chionodraco rastrospinosus;25;Peixe nativo do Oceano Antártico
+Macropinna microstoma;Macropinna microstoma;20; Peixe de águas profundas
+Gobiao de Stimpson;Gobião de Stimpson;16;Peixe nativo das ilhas havaianas
+Republica do Nagorno-Karabakh;República do Nagorno-Karabakh;27;República bem próxima à fronteira com a Armênia
+Guernsey;Guernsey;8;É uma ilha no Canal da Mancha
+Vanuatu;Vanuatu;7;É um estado insular da Melanésia

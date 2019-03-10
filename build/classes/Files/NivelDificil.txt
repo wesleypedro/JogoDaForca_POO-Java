@@ -1,0 +1,51 @@
+50
+Guariroba;Guariroba;9;Fruta nativa do Brasil
+Inga;Ingá;4; Fruta com principal genero vindo das florestas amazonicas
+Jamelao;Jamelão;7;Fruta nativa da India
+Macadamia;Macadâmia;9;Fruta originária da Austrália
+Naranjilla;Naranjilla;10;Fruta originária da região andina
+Nectarina;Nectarina;9;Fruta variante de pêssego
+Pistache;Pistache;8;Fruta que pertence à família da Anacardiaceae
+Rambutao;Rambutão;8;Fruto muito abundante no Sudeste Asiático, sobretudo na Tailândia
+Seriguela;Seriguela;9;Fruto originário das Américas
+Taruma;Tarumã;6;Fruta escura de fazer vinho
+Abaetetuba;Abaetetuba;10;Cidade do Pará
+Apucarana;Apucarana;9;Cidade do Paraná
+Araruama;Araruama;8;Cidade do Rio de Janeiro
+Cacapava;Caçapava;8; Cidade de São Paulo
+Caraguatatuba;Caraguatatuba;13;Cidade de São Paulo
+Concordia;Concórdia;9;Cidade de Santa Catarina
+Eunapolis;Eunápolis;9;Cidade da Bahia
+Votuporanga;Votuporanga;11;Cidade de São Paulo
+Itacoatiara;Itacoatiara;11;Cidade da Amazonia
+Manacapuru;Manacapuru;10;Cidade da Amazonia
+Pirassununga;Pirassununga;12;Cidade de São Paulo
+Castical;Castiçal;8;Obejeto usado para suporte
+Umidificador de Ar;Umidificador de Ar;15;Objeto utilisado para modificar o clima
+Zarabatana;Zarabatana;10;Tubo comprido pelo qual se impelem, setas
+Dromedario;Dromedário;10;Animal mamífero nativo da região nordeste da África
+Hamster;Hamster;7;Animail de estimação popular
+Orangotango;Orangotango;11;Mamifero encontrado somente nas florestas tropicais do Bornéu e da Sumatra
+Sucuarana;Suçuarana;9;É o segundo maior felídeo neotropical
+Xixarro;Xixarro;7;Nome comum usado para designar várias espécies de peixes: Portugal
+Verguita;Verguita;8;Vara delgada e muito flexível
+Diclofenaco;Diclofenaco;11;Medicamento indicado para prevenir e aliviar a dor e a inflamação
+Hidroxizina;Hidroxizina;11;Medicamento indicado para alergias
+Merthiolate;Merthiolate;11;Medicamento bactericida
+Mocassim;Mocassim;8;Cor que se assemelha ao beje
+Heliostato;Helióstato;10;Obejto usado para refletir a luz do sol
+Caetofobia;Caetofobia;10;Medo de pelos
+Mitsubishi;Mitsubishi;10;Marca famosa do Japão
+Virginitifobia;Virginitifobia;14;Medo preocupante no que toca a sexo
+Katsaridafobia;Katsaridafobia;14;Medo de baratas
+Jaruense;Jaruense;8;É um clube brasileiro de futebol
+Quirinopolino;Quirinopolino;13;Natural de uma cidade e município de Goiás
+Labradorite;Labradorite;11;É um mineral do grupo dos feldspatos
+Obsidiana;Obsidiana;9;Vidro de cor preta ou escura, caracterizado por fratura concoidal, devido a rápido resfriamento de material vulcânico, e por não conter água
+Marcassite;Marcassite;10;É o polimorfo ortorrômbico da pirita
+Vanadinite;Vanadinite;10;É um mineral também chamado de clorovanadato de chumbo
+Turmalina;Turmalina;9;Mineral que constitue um dos mais complexos grupos de silicato quanto à sua composição química
+Ultramarina;Ultramarina;11;Situado além do mar
+Xenotimo;Xenótimo;8;Mineral raro composto de fosfato de ítrio
+Kamacita;Kamacita;8;É uma liga de ferro e níquel
+Lamborghini;Lamborghini;11;Marca italiana famosa
