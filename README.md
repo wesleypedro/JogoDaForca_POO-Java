@@ -16,4 +16,4 @@ O projeto apresenta uma versão do **Jogo da Forca** e possui as seguintes carac
 
 Pode ocorrer algum erro a depender do sistema no qual o projeto está sendo executado. Esses erros podem surgir devido as especificações de caminhos de arquivos, que são os bancos de palavras para cada nível, ou mesmo das imagens  usadas para representar a vida do jogador.
 
-Esse erro pode ocorrer devido as barras que são usadas para separar os diretórios no paht de cada arquivo, e pode ser solucionado simplesmente `alterando a direção da barra ou adicionando barras duplas invertidas`.
+Esse erro pode ocorrer devido as barras que são usadas para separar os diretórios no paht de cada arquivo, e pode ser solucionado simplesmente `alterando a direção da barra ou substituído por barras duplas invertidas`.
