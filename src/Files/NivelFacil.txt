@@ -1,0 +1,51 @@
+﻿50
+Bacalhau;Bacalhau;8;Peixe típico de Portugal.
+Jornal;Jornal;6;Papel ou programa de televisão que contém notícias
+Degrau;Degrau;6;Pequena parte de uma escada
+Aluguel;Aluguel;7;Ação de adquirir algo, durante um tempo, atraves de um pagamento
+Mal;Mal;3;Contrário de bem.
+Tratado;Tratado;7;Acordo entre dois ou mais países sobre algo.
+Binoculos;Binóculos;8;Objeto utilizado para observar algo distante.
+Pais;País;4; Região que possuí governo, povo e cultura próprios. 
+Oculos;Óculos;6; Objeto utilizado por quem tem problemas de visão.
+Onibus;Ônibus;6; Meio de transporte.
+Album;Álbum;5;Objeto no qual guardamos fotos.
+Vermelho;Vermelho;8; Cor primária.
+Verde;Verde;5; Cor primária.
+Azul;Azul;4; Cor primária.
+Tamandua;Tamanduá;8; Animal de medio porte que se alimenta de formigas.
+Tesouro;Tesouro;7; Objeto típico de histórias de piratas, geralmente apontado por um mapa.
+Carnaval;Carnaval;8; Festa típicamente brasileira que ocorre em fevereiro.
+Sol;Sol;3; Astro que ilumina a terra durante o dia.
+Americano;Americano;9; Nacionalidade de quem é originário da América.
+Aniversario;Aniversário;11; Data em que se comemora o nascimento de alguém.
+Circo;Circo;5;Local onde os palhaços vivem e se apresentam.
+Trave;Trave;5;Parte superior do gol.
+Bicicleta;Bicicleta;9;Meio de transporte tipicamente individual, possui dois pneus e não precisa de combustível.
+Pipoca;Pipoca;6;Alimento muito popular em cinemas.
+Diamante;Diamante;8;Pedra preciosa muito presente em anéis, colares e brincos.
+Vidro;Vidro;5;Material utilizado para fazer copos, pratos, janelas, espelhos.
+Acucar;Açúcar;6;Utilizado para tornar algo doce. 
+Atleta;Atleta;6;Pessoa que pratica esportes profissionalmente.
+Gasolina;Gasolina;8;Combustível utilizado em veículos populares.
+Gancho;Gancho;6;O principal vilão de Peter Pan tem um desses no lugar de uma das mãos.
+Circulo;Círculo;7;Formato geométrico.
+Civil;Civil;5; Pessoa que não é militar.
+Compasso;Compasso;8;Instrumento de desenho utilizado para fazer círculos.
+Coelho;Coelho;6;Animal que possui orelhas grandes, muito conhecido por conta da Páscoa.
+Futebol;Futebol;7;Esporte mais popular no Brasil.
+Papagaio;Papagaio;8;Animal voador que imita o que ouve.
+Elefante;Elefante;8;Animal típico da Africa, que possui 4 patas e uma tromba.
+Cabide;Cabide;6;Objeto no qual as roupas são penduradas.
+Cereja;Cereja;6;Fruta que sempre está presente na decoração de bolos.
+Cafe da Manha;Café da Manhã;11;Primeira refeição do dia.
+Escola;Escola;6;Local de trabalho de professores.
+Bolo;Bolo;4;Alimento sempre presente em aniversários.
+Foguete;Foguete;7;Objeto utilizado para levar pessoas ou coisas para o espaço ou para planetas.
+Vela;Vela;4;Objeto que emite luz, constituído de parafina.
+Borracha;Borracha;8;Objeto utilizado para apagar algo escrito em um papel.
+Prato;Prato;5;Objeto no qual colocamos a comida, geralmente feito de porcelana.
+Caderno;Caderno;7;Objeto no qual fazemos anotações.
+Polvo;Polvo;5;Animal que possui 8 tentáculos.
+Outono;Outono;6;Estação do ano.
+Aviao;Avião;5;Meio de transporte utilizado para percorrer grandes distâncias.

@@ -1,0 +1,51 @@
+50
+Gelo;Gelo;4;Estado da Água.
+Sacola;Sacola;6;Objeto de plástico, utilizado para transportar outros objetos.
+Fivela;Fivela;6;Parte do cinto.
+Caneca;Caneca;6;Recipiente para bebidas, geralmente feito de porcelana.
+Piano;Piano;5;Instrumento musical, grande e pesado.
+Bone;Boné;4;Peça de vestuário.
+Camaleao;Camaleão;8;Animal que pode mudar de cor.
+Telefone;Telefone;8;Objeto que pode fazer com que pessoas distantes conversem.
+Tarefa;Tarefa;6;Ação que alguém deve realizar;
+Cometa;Cometa;6;Rocha que pode deixar rastros no céu.
+Viatura;Viatura;7;Veículo utilizado por policiais.
+Tronco;Tronco;6;Parte de uma árvore.
+Porta;Porta;5;Objeto utilizado para bloquear a entrada de pessoas não autorizadas.
+Pombo;Pombo;5;Animal voador muito presente em grandes cidades;
+Lisboa;Lisboa;6;Capital de Portugal.
+Livro;Livro;5;Objeto que contém páginas e pode ser sobre diversos temas.
+Peixe;Peixe;5;Animal comum no litoral.
+Ilha;Ilha;4;Região de terra cercada por água.
+Abelha;Abelha;6;Inseto voador que é atraído por aromas doces.
+Lenha;Lenha;5;Combustível utilizado para fazer uma fogueira.
+Entulho;Entulho;7;Resíduos de construção ou demolição. 
+Emigrar;Emigrar;7;Sair de um país para ir viver em outro.
+Fachada;Fachada;7;Região frontal de um edifício.
+Machado;Machado;7;Arma branca, geralmente utilizada por lenhadores.
+Audicao;Audição;7;Um dos sentidos.
+Paladar;Paladar;7;Um dos sentidos.
+Barulho;Barulho;7;Som incômodo.
+Aquario;Aquário;7;Objeto no qual os peixes são colocados.
+Fotografia;Fotografia;10;Registro visual de algo ou alguém.
+QuadradoQuadrado;8;Figura geométrica.
+Zoologico;Zoologico;9;Local específico para se manter animais selvagens, que podem ser exibidos ao público.
+Bibliotecario;Bibliotecário;13;Profissão de alguém que estuda biblioteconomia.
+Uva;Uva;3;Fruta de cor roxa.
+Cavalo;Cavalo;6;Animal quadrúpede que possui crina.
+Iglu;Iglu;4;Abrigo construído com neve.
+Tenis;Tênis;5;Tipo de calçado.
+Verao;Verão;5;Estação do ano.
+Trem;Trem;4;Meio de transporte só se move sob trilhos.
+Tartaruga;Tartaruga;9;Animal que se move devagar, aquático ou terrestre.
+Baleia;Baleia;6;Animal mamífero de grande porte.
+Hiena;Hiena;5;Animal conhecido por fazer um som parecido com o de uma risada.
+Guitarra;Guitarra;8;Instrumento musical, muito presente em bandas de rock.
+Guirlanda;Guirlanda;9;Enfeite de formato circular, muito presente no período de natal.
+Mangueira;Mangueira;9;Tubo flexível usado para canalizar líquidos, principalmente água. 
+Remedio;Remédio;7;Substância ou recurso utilizado para obter cura ou alívio.
+Mamao;Mamão;5;Fruta de cor laranja.
+Cacique;Cacique;7;Líder indígena.
+Bagaço;Bagaço;6;Resíduo de fruta.
+Vacina;Vacina;6;Preparação biológica que fornece imunidade adquirida ativa para uma doença particular.
+Gesso;Gesso;5;Material utilizado em construções, ou até mesmo utilizado para imobilizar alguma região machucada do corpo.
